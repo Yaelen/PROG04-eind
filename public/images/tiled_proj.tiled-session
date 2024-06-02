@@ -12,11 +12,11 @@
             "scaleInEditor": 1
         },
         "Level_1_map.tmx": {
-            "scale": 0.5,
-            "selectedLayer": 0,
+            "scale": 0.75,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 508,
-                "y": 315
+                "x": 503.3333333333333,
+                "y": 416.66666666666663
             }
         },
         "Level_1_map.tmx#LvL1_tileset": {
