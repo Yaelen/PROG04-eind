@@ -51,9 +51,9 @@ export class LevelOne extends Scene {
         this.add(jenSt);
         jenSt.pos = new Vector(896, 112);
 
-        const test = new Stone();
-        this.add(test);
-        test.pos = new Vector(432, 144);
+        // const test = new Stone();
+        // this.add(test);
+        // test.pos = new Vector(432, 144);
 
         this.camera.strategy.lockToActor(player);
         this.camera.zoom = 2.4;
