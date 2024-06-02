@@ -13,10 +13,10 @@ const Resources = {
     Stone: new ImageSource('images/Stone.png'),
     Plate: new ImageSource('images/Plate.png'),
     Door: new ImageSource('images/Door.png'),
-    FirstLevel: new TiledResource('/images/Level_1_map.tmx'),
-    Intro: new ImageSource('/images/intro.png'),
-    Instruction: new ImageSource('/images/instructions.png'),
-    End: new ImageSource('/images/ending.png'),
+    FirstLevel: new TiledResource('images/Level_1_map.tmx'),
+    Intro: new ImageSource('images/intro.png'),
+    Instruction: new ImageSource('images/instructions.png'),
+    End: new ImageSource('images/ending.png'),
     BackGround: new ImageSource('images/background.png')
 }
 
