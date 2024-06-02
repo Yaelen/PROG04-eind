@@ -1,0 +1,37 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Level_1_map.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "": {
+            "scaleInEditor": 1
+        },
+        "Level_1_map.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 503.3333333333333,
+                "y": 416.66666666666663
+            }
+        },
+        "Level_1_map.tmx#LvL1_tileset": {
+            "scaleInDock": 1
+        }
+    },
+    "last.imagePath": "C:/Users/yaele/OneDrive - Hogeschool Rotterdam/prog04/PROG04-eind/public/images",
+    "map.lastUsedFormat": "tmx",
+    "openFiles": [
+        "Level_1_map.tmx"
+    ],
+    "project": "tiled_proj.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "Level_1_map.tmx"
+    ],
+    "tileset.embedInMap": true
+}
